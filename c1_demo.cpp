@@ -20,6 +20,7 @@ int main()
 		cout << "4.Tim kiem phan tu\n";
                 cout << "5.demo\n";
                 cout << "6.demo3\n";
+                cout << "7.demo4\n";
 		cout << "0. Thoat\n";
 		cin >> chon;
 		switch (chon)
