@@ -26,7 +26,7 @@ int main()
                 cout << "6.demo3\n";
                 cout << "7.demo4\n";
 >>>>>>> ktpm-03
-                cout <<"8.1\n"
+                cout <<"8.2\n"
 		cout << "0. Thoat\n";
 		cin >> chon;
 		switch (chon)
